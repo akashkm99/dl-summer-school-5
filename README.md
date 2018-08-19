@@ -1,6 +1,6 @@
 ## ML & DL Summer School | Analytics Club & CVI | IIT-Madras
 
-### DL Session -5 Generative Models
+### DL Session 5 Generative Models
 
 This repository contains the Slides and Codes for the 5th Deep Learning Summer School session. The codes contain the implementation of GANs and its variants in Keras.
 
